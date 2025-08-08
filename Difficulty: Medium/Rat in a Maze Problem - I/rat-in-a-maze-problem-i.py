@@ -1,18 +1,17 @@
 class Solution:
     # Function to find all possible paths
     def generateDirections(self, cur_row, cur_col, n):
-        directions = [(cur_row - (cur_row-1>=0),cur_col, 'U'),
-                (cur_row + (cur_row+1 <= n), cur_col, 'D'),
+        directions = [(cur_row + (cur_row+1 <= n), cur_col, 'D'),
                 (cur_row, cur_col-(cur_col-1>=0), 'L'),
                 (cur_row, cur_col + (cur_col+1 <= n), 'R'),
+                (cur_row - (cur_row-1>=0),cur_col, 'U'),
                 ];
                         
         return directions;
         
     def findPaths(self, cur_row, cur_col, des_row, des_col, path, paths, maze):
         if cur_row == des_row and cur_col == des_col:
-            result = "".join(path);
-            paths.append(result);
+            paths.append(path);
             return;
             
         directions = self.generateDirections(cur_row, cur_col, des_row);
@@ -21,10 +20,10 @@ class Solution:
             col = directions[i][1];
             direction = directions[i][2];
             if maze[row][col] != 0 and (row != cur_row or col != cur_col):
-                path.append(direction);
+                path += directions;
                 maze[cur_row][cur_col] = 0;
                 self.findPaths(row, col, des_row, des_col, path, paths, maze);
-                path.pop();
+                path = path[0:len(path)-1];
                 maze[cur_row][cur_col] = 1;
         
         
@@ -37,6 +36,5 @@ class Solution:
             return [];
         else:
             self.findPaths(0, 0, n, n, path, paths, maze);
-            paths.sort();
             return paths;
             
