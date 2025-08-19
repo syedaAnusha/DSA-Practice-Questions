@@ -7,10 +7,12 @@ class Solution:
         i = len(arr)-1;
         j = 0;
         while i >= 0:
-            minValIndex = 0;
-            for j in range(0, i+1):       
-                if arr[j] > arr[minValIndex]:
-                    minValIndex = j;
-            self.swap(arr,minValIndex, i);
+            didSwap = 0;
+            for j in range(0, i):       
+                if arr[j] > arr[j+1]:
+                    self.swap(arr,j, j+1);
+                    didSwap = 1;
+            if didSwap == 0:
+                break;
             i -= 1;
         return arr;
