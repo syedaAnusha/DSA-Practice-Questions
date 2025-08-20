@@ -7,11 +7,18 @@ class Solution:
     def swap(self, arr, i, j):
         arr[i], arr[j] = arr[j], arr[i];
         
+    def insertionSortArr(self, arr, i):
+        if i == len(arr):
+            return;
+            
+        j = i;
+        while j > 0 and arr[j] < arr[j-1]:
+            self.swap(arr, j, j-1);
+            j -= 1;
+            
+        self.insertionSortArr(arr, i+1);
+        
     def insertionSort(self, arr):
         # code here
-        for i in range(len(arr)):
-            j = i;
-            while j > 0 and arr[j] < arr[j-1]:
-                self.swap(arr, j, j-1);
-                j -= 1;
+        self.insertionSortArr(arr, 0);
         return arr;
