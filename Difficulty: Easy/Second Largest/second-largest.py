@@ -4,7 +4,7 @@ class Solution:
         # Time Complexity: O(n)
         # Space Complexity: O(1)
         largest = arr[0];
-        secLargest = -1;
+        secLargest = -1; # set to -1, if all numbers are positive. else, set to -inf 
         for i in range(1, len(arr)):
             if arr[i] > largest:
                 secLargest = largest;
