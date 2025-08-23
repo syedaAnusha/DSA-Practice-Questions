@@ -1,4 +1,8 @@
 class Solution(object):
+    # Brute Force Approach
+    # Time Complexity: O(nlogn) + O(n)
+    # Space Complexity: O(n)+ O(n) -> for temp[] and dupNums[] respectively.
+    
     # Sort duplicate array
     def mergeArray(self, arr, low, mid, high):
         i = low;
