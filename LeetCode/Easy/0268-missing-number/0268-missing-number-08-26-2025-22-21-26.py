@@ -1,4 +1,7 @@
 class Solution(object):
+    # Brute Force Approch
+    # Time Complexity: O(n)^2
+    # Space Complexity : O(1)
     def missingNumber(self, nums):
         """
         :type nums: List[int]
