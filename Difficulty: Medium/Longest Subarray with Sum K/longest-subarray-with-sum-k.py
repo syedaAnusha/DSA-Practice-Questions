@@ -1,5 +1,5 @@
 class Solution:
-    # Optimal Approach
+    # Optimal Approach only for arrays contain [negatives, 0, Positives]
     # Time Complexity: O(n)
     # Space Complexity: O(n)
     
