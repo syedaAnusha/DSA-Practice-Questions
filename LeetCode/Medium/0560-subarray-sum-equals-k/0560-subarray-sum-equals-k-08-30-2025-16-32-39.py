@@ -1,7 +1,7 @@
 class Solution(object):
     # Optimal Approach
-    # Time Complexity: O(n)
-    # Space Complexity: O(n/2 + 1)
+    # Time Complexity: O(n + log n) or O(n)
+    # Space Complexity: O(n)
     def subarraySum(self, nums, k):
         """
         :type nums: List[int]
