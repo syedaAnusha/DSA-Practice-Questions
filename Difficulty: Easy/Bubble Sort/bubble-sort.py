@@ -11,11 +11,13 @@ class Solution:
         while i > 0:
             j = 0;
             while j < i:
-                if arr[i] < arr[j]:
-                    self.swap(arr, i, j);
+                if arr[j] > arr[j+1]:
+                    self.swap(arr, j, j+1);
                     isMaxFound = True;
-                j += 1
-            i -= 1
+                j += 1;
+            if not isMaxFound:
+                break;
+            i -= 1 
                 
         
        
