@@ -1,4 +1,8 @@
 class Solution(object):
+    # Optimal Approach
+    # Time Complexity = O(n^2 * 2^n-1) = O(n^2 * 2^n) 
+    # Space Complexity = O(2^n * n) + o(n) 
+    # Explanation: here 2^n is the number of all possible perm: substr
     def checkIsPalindrome(self, s, i, j):
         while i <= j:
             if s[i] != s[j]:
