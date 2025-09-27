@@ -1,5 +1,5 @@
 class Solution:
-    # Brute Force Approach
+    # Optimal Approach - 01
     # Time Complexity: O(min(a,b)) + O(nlogn) + O(mlogm)
     # Space Complexity: O(1)
     def swap(self, nums1, nums2, i, j):
