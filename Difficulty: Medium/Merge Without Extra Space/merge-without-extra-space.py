@@ -1,7 +1,7 @@
 class Solution:
     # Brute Force Approach
-    # Time Complexity: O(n) + O(n) = O(2n)
-    # Space Complexity: O(n)
+    # Time Complexity: O(n) + O(m) = O(2 * n + m)
+    # Space Complexity: O(n + m)
     def mergeArrays(self, a, b):
         # code here
         i = 0;
