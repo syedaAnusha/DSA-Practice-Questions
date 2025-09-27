@@ -1,32 +1,38 @@
 class Solution:
-    def merge(self, a, b):
-        left, right = 0, 0;
-        len_a = len(a);
-        len_b = len(b);
-        temp = [];
-        while(left < len_a and right < len_b):
-            if a[left] < b[right]:
-                temp.append(a[left]);
-                left += 1;
-            else:
-                temp.append(b[right]);
-                right += 1;
-        while (left < len_a):
-            temp.append(a[left]);
-            left += 1;
-        while (right < len_b):
-            temp.append(b[right]);
-            right += 1;
-        return temp;
-                  
+    # Brute Force Approach
+    # Time Complexity: O(n) + O(n) = O(2n)
+    # Space Complexity: O(n)
     def mergeArrays(self, a, b):
         # code here
-        len_a = len(a);
-        len_b = len(b);
-        arr = self.merge(a, b);
-        for i in range(0, len_a):
-            a[i] = arr[i];
-        for j in range(len_b):
-            b[j] = arr[len_a + j];
-    
-        return a, b;
+        i = 0;
+        j = 0;
+        temp = [];
+        while i < len(a) and j < len(b):
+            if a[i] < b[j]:
+                temp.append(a[i]);
+                i += 1;
+            else:
+                temp.append(b[j]);
+                j += 1;
+
+        if i < len(a):
+            while i < len(a):
+                temp.append(a[i]);
+                i += 1;
+        elif j < len(b):
+            while j < len(b):
+                temp.append(b[j]);
+                j += 1;
+                
+        for k in range(len(a)):
+            a[k] = temp[k];
+        
+        startIndex = len(a);
+        for l in range(len(b)):
+            b[l] = temp[startIndex]
+            startIndex += 1;
+            
+        
+        
+        
+        
