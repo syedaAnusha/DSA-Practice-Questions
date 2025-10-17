@@ -10,18 +10,10 @@ class Solution:
         index = -1;
         while low <= high:
             mid = (low + high) // 2;
-            if arr[mid] > x:
-                high = mid - 1;
-            elif (arr[mid] <= x and arr[mid] >= arr[index]) or index == -1:
+            if arr[mid] <= x:
                 index = mid;
                 low = mid + 1;
             else:
-                low = mid + 1;
+                high = mid - 1;
                 
         return index;
-                
-                
-                
-                
-            
-        
