@@ -1,5 +1,8 @@
 # User function Template for python3
 class Solution:
+    # Optimal Approach
+    # Time Complexity: O((N^m) * v) + O(V^2)
+    # Space Complexity: O(V^2) = for matrix + O(N) = color array + O(N) = for aux space 
     def isSafetoInsertColor(self, matrix, index, colorArr, v, color):
         for k in range(v):
             if matrix[index][k] == 1 and index != k and colorArr[k] == color:
@@ -15,7 +18,7 @@ class Solution:
                 if self.isSafetoInsertColor(matrix, index, colorArr, v, color):
                     colorArr[index] = color;
                     if self.findColorGraph(matrix, colorArr, v, m, index+1):
-                        return True;
+                        return True; 
                     colorArr[index] = 0;
                         
         return False;
@@ -35,5 +38,3 @@ class Solution:
         colorArr = [0 for _ in range(v)];
         index = 0;
         return self.findColorGraph(matrix, colorArr, v, m, index);
-        
-                
