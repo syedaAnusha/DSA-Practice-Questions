@@ -1,38 +1,39 @@
 # User function Template for python3
-
 class Solution:
-    def isSafeToColor(self, currentColor,  graph, color, node, v):
+    def isSafetoInsertColor(self, matrix, index, colorArr, v, color):
         for k in range(v):
-            if k != node and graph[node][k] == 1 and color[k] == currentColor:
+            if matrix[index][k] == 1 and index != k and colorArr[k] == color:
                 return False;
         return True;
-       
         
-        
-    def findAllValidColorGraphs(self, v, m, color, graph, node):
-        if node == v:
-            return True;
-             
-        for i in range(1, m+1):
-            if self.isSafeToColor(i, graph, color, node, v):
-                color[node] = i;
-                if self.findAllValidColorGraphs(v, m, color, graph, node+1):
-                    return True;
-                color[node] = 0;
                 
+    def findColorGraph(self, matrix, colorArr, v, m, index):
+        if index == v:
+            return True;
+        else:
+            for color in range(1, m+1):
+                if self.isSafetoInsertColor(matrix, index, colorArr, v, color):
+                    colorArr[index] = color;
+                    if self.findColorGraph(matrix, colorArr, v, m, index+1):
+                        return True;
+                    colorArr[index] = 0;
+                        
         return False;
-            
-            
+        
+    
     def graphColoring(self, v, edges, m):
         # code here
-        color = [0] * v;
-        node = 0;
-        graph = [[0]*v for i in range(v)];
-        for value in edges:
-            row, col = value[0], value[1];
-            graph[row][col] = 1;
+        # define matrix of v x v 
+        matrix = [[0 for _ in range(v)] for _ in range(v)];
         
+        # assign edges in matrix 
+        for edge in edges:
+            row = edge[0];
+            col = edge[1];
+            matrix[row][col] = 1;
         
-        return self.findAllValidColorGraphs(v, m, color, graph, node);
+        colorArr = [0 for _ in range(v)];
+        index = 0;
+        return self.findColorGraph(matrix, colorArr, v, m, index);
         
-        
+                
