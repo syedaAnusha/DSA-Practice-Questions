@@ -1,6 +1,6 @@
 class Solution(object):
-    # Better Approach
-    # Time Complexity = O(n) + O(n) = O(2n) = O(n) 
+    # Optimal Approach
+    # Time Complexity = O(n) 
     # Space Complexity = O(1)
     def swap(self, nums, i, j):
         nums[i], nums[j] = nums[j], nums[i];
