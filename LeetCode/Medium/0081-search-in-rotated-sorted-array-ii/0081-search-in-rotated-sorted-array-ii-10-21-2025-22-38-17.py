@@ -1,6 +1,7 @@
 class Solution:
     # Optimal Approach
-    # Time Complexity: O(log n)
+    # Time Complexity: O(log n) - In avg and best case, 
+    # Time Complexity: O(n/2) In worst case
     # Space Complexity: O(1)
     def search(self, nums: List[int], target: int) -> bool:
         n = len(nums);
