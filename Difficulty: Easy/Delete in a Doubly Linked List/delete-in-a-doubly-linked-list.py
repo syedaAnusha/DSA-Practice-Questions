@@ -10,32 +10,35 @@ class Solution:
     def delPos(self, head, x):
         # code here
         # edge cases
-        if head == None or (x == 1 and head.next == None):
+        if head == None:
             return None;
-        
+            
+        countNode = 0;
         temp = head;
-        if x == 1:
-            temp = temp.next;
-            temp.prev = None;
-            head.next = None;
-            return temp;
-        
-        countNodes = 1;
         while temp != None:
-            if countNodes == x:
-                temp.prev.next = temp.next;
-                if temp.next != None:
-                    temp.next.prev = temp.prev
-                else:
-                    temp.prev = None;
+            countNode += 1;
+            if countNode == x:
                 break;
             temp = temp.next;
-            countNodes += 1;
         
-        return head;
+        prevNode = temp.prev;
+        nextNode = temp.next;
+        
+        if prevNode == None and nextNode == None:
+            return None;
+        elif nextNode == None:
+            prevNode.next = None;
+            temp.prev = None;
+            return head;
+        elif prevNode == None:
+            temp = nextNode;
+            temp.prev = None;
+            return temp;
+        else:
+            prevNode.next = nextNode;
+            nextNode.prev = prevNode;
+            temp.next = None;
+            temp.prev = None;
+            return head;
             
             
-            
-        
-        
-        
