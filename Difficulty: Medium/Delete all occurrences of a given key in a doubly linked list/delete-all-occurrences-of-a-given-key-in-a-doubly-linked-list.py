@@ -8,10 +8,11 @@
 '''
 class Solution:
     #Function to delete all the occurances of a key from the linked list.
+    # Optimal Approach - 2
+    # Time Complexity: O(n)
+    # Space Complexity: O(1)
     def deleteAllOccurOfX(self, head, x):
         # code here
-        
-            
         temp = head;
         while temp != None:
             if temp.data == x:
