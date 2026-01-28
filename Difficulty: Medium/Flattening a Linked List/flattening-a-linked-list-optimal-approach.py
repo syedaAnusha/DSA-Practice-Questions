@@ -7,9 +7,9 @@ class Node:
         
 '''
 class Solution:
-    # Optimal Approach
-    # Time Complexity: O(2NM)
-    # Space Complexity: O(M)  where M denotes vertical sublist
+    # Better Approach
+    # Time Complexity: O(N*N*M)
+    # Space Complexity: O(N) where for each horizontal nth node, flattenLists call only once
     def flattenLists(self, tempNode):
         if not tempNode or not tempNode.next:
             return tempNode;
