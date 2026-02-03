@@ -1,17 +1,21 @@
 class Solution:
-    # Brute Force Approach
-    # Time Complexity:O(2n) + O(nlogn)
+    # Brute Approach - 01
+    # Time Complexity:O(n^2)
     # Space Complexity:O(n)
+    def insertVal(self, st, curVal):
+        if not st or curVal > st[-1]:
+            st.append(curVal);
+            return st;
+        val = st.pop();
+        self.insertVal(st, curVal);
+        st.append(val);
+        return st;
+        
     def sortStack(self, st):
         # code here 
-        arr = [];
-        i = 0;
-        while i < len(st):
-            arr.append(st[i]);
-            i += 1;
-        arr.sort();
-        i = 0;
-        while i < len(arr):
-            st[i] = arr[i];
-            i += 1;
-        return st;
+        if st:
+            curVal = st.pop();
+            self.sortStack(st);
+            self.insertVal(st, curVal); 
+            return st;
+        
