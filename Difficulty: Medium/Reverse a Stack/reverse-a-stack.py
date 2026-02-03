@@ -1,7 +1,7 @@
 class Solution:
     # Brute Approach
     # Time Complexity:O(n^2)
-    # Space Complexity: O(n^2)
+    # Space Complexity: O(n)
     def helperReverseStack(self, stack, curVal):
         if not stack:
             stack.append(curVal);
