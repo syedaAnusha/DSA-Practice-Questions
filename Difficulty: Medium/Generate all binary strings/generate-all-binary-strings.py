@@ -6,11 +6,11 @@ class Solution:
         if len(subStr) == n:
             result.append(subStr);
             return result;
-        
+            
+        # First try to generate all binary strings with 0
         self.generateAllBinStrs(result, subStr+"0", n);
-        
-        if not subStr or subStr[-1] != 1:
-            self.generateAllBinStrs(result, subStr+"1", n);
+        # then generatr all binary strings with 1
+        self.generateAllBinStrs(result, subStr+"1", n);
                 
     def binstr(self, n):
         # code here
