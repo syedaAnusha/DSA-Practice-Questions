@@ -18,30 +18,27 @@ class Solution:
             
     def infixtoPostfix(self, s):
         #code here
-        postfixExp = "";
+        postfixExp = [];
         stack = [];
-     
+
         for i in range(len(s)):
             if s[i].isalnum():
-                postfixExp += s[i];
+                postfixExp.append(s[i]);
                 
             elif s[i] == '(':
                 stack.append(s[i]);
                 
             elif s[i] == ')':
                 while stack and stack[-1] != '(':
-                    postfixExp += stack[-1];
-                    stack.pop();
+                    postfixExp.append(stack.pop());
                 stack.pop();
                 
             else:
                 while stack and self.getPriorityOfAn(s[i]) <= self.getPriorityOfAn(stack[-1]) and self.isNotRightAssociative(s[i]):
-                    postfixExp += stack[-1];
-                    stack.pop();
+                    postfixExp.append(stack.pop());
                 stack.append(s[i]);
             
         while stack:
-            postfixExp += stack[-1];
-            stack.pop();
+            postfixExp.append(stack.pop());
         
-        return postfixExp;
+        return "".join(postfixExp);
