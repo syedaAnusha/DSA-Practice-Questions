@@ -85,6 +85,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0402-remove-k-digits](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
@@ -94,6 +95,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0402-remove-k-digits](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
@@ -116,4 +118,12 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->
