@@ -78,6 +78,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0503-next-greater-element-ii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/2104-sum-of-subarray-ranges/) | Medium |
 ## Hash Table
@@ -144,9 +145,15 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
