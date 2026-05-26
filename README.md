@@ -79,6 +79,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0735-asteroid-collision](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/2104-sum-of-subarray-ranges/) | Medium |
@@ -89,6 +90,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0424-longest-repeating-character-replacement](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -153,12 +155,14 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0003-longest-substring-without-repeating-characters](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Binary Search
