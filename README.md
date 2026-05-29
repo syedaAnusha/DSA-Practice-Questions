@@ -89,6 +89,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
@@ -142,6 +143,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0402-remove-k-digits](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -157,6 +159,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0930-binary-subarrays-with-sum/) | Medium |
