@@ -5,41 +5,30 @@ class Solution:
 
     def minWindow(self, s1, s2):
         # Code here
-        if not s1 or not s2:
-            return ""
-
-        min_len = float('inf')
-        res = ""
-        i, j = 0, 0
-
+        minSubsequence = "";
+        i = j = 0;
+        minLen = float("inf");
+        
         while i < len(s1):
-            # Forward pass: Check if s2 is a subsequence of s1
             if s1[i] == s2[j]:
-                j += 1
-
-                # If the entire s2 is found in s1
+                j += 1;
+                
                 if j == len(s2):
-                    end = i
-                    j -= 1
-
-                    # Backward pass: Minimize the window
+                    j -= 1;
+                    endIndex = i;
+                    
                     while j >= 0:
                         if s1[i] == s2[j]:
-                            j -= 1
-                        i -= 1
-
-                    start = i + 1
-                    length = end - start + 1
-
-                    # Update the absolute minimum window
-                    if length < min_len:
-                        min_len = length
-                        res = s1[start:start + length]
-
-                    # Reset pointers for the next search
-                    i = start
-                    j = 0
-
-            i += 1
-
-        return res
+                            j -= 1;
+                        i -= 1;
+                    
+                    startIndex = i+1;
+                    currLen = endIndex - startIndex + 1; 
+                    if currLen < minLen:
+                        minLen = currLen;
+                        minSubsequence = s1[startIndex:endIndex+1];
+                    i = startIndex;
+                    j = 0;
+            
+            i += 1;
+        return minSubsequence;
