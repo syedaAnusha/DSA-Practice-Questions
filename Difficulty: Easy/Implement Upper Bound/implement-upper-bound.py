@@ -1,18 +1,20 @@
 class Solution:
     # Optimal Approach
-    # Time Complexity: O(log n)
+    # Time Complexity: O (log n)
     # Space Complexity: O(1)
     def upperBound(self, arr, target):
         # code here
-        ind = len(arr);
+        arrLen = len(arr);
         low = 0;
-        high = ind - 1;
+        high = arrLen - 1;
+        index = arrLen;
+        
         while low <= high:
             mid = (low + high) // 2;
             if arr[mid] > target:
-                ind = mid;
+                index = mid;
                 high = mid - 1;
             else:
                 low = mid + 1;
-        return ind;
         
+        return index;
