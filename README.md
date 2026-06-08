@@ -193,6 +193,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -201,9 +202,18 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
