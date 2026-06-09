@@ -76,6 +76,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0084-largest-rectangle-in-histogram](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0455-assign-cookies](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
@@ -137,6 +138,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0455-assign-cookies](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +155,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
+| [0455-assign-cookies](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +202,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0455-assign-cookies](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
