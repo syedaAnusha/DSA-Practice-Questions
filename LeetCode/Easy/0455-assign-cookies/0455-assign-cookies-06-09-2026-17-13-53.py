@@ -1,6 +1,5 @@
-import heapq;
 class Solution:
-    # Brute Force Approach
+    # Optimal Approach
     # Time Complexity: O(s+g log s+g) O(min(s, g))
     # Space Complexity: O(1)
     def findContentChildren(self, g: List[int], s: List[int]) -> int:
