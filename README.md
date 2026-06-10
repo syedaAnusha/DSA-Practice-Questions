@@ -79,6 +79,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0455-assign-cookies](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
+| [0621-task-scheduler](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0735-asteroid-collision](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0860-lemonade-change](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
@@ -96,6 +97,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0076-minimum-window-substring](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
+| [0621-task-scheduler](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
@@ -157,6 +159,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
+| [0621-task-scheduler](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0860-lemonade-change](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -194,6 +197,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0621-task-scheduler](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -205,11 +209,13 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0455-assign-cookies](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
+| [0621-task-scheduler](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0621-task-scheduler](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
