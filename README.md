@@ -73,6 +73,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
@@ -131,6 +132,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0085-maximal-rectangle](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0338-counting-bits](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
@@ -159,6 +161,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0402-remove-k-digits](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
