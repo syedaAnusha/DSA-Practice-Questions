@@ -75,6 +75,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0042-trapping-rain-water](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
+| [0057-insert-interval](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0057-insert-interval/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
