@@ -117,6 +117,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0402-remove-k-digits](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/2104-sum-of-subarray-ranges/) | Medium |
@@ -140,6 +141,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0085-maximal-rectangle](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0338-counting-bits](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -161,6 +163,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0076-minimum-window-substring](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0402-remove-k-digits](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -171,6 +174,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0435-non-overlapping-intervals](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
