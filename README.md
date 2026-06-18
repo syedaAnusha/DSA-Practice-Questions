@@ -115,6 +115,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0042-trapping-rain-water](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0402-remove-k-digits](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
@@ -251,13 +252,16 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
