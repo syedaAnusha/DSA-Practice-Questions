@@ -9,28 +9,27 @@ class Node:
 '''
 
 class Solution:
-    # Optimal Approach Using level order traversal
+    # Optimal Approach Using DFS
     # Time Complexity: O(n)
-    # Space Complexity: O(n)
+    # Space Complexity: O(h)
     def isLeaf(self, root):
         return (not root.left and not root.right)
+    
+    def checkSumProperty(self, root):
+        if not root:
+            return 0
+        
+        if self.isLeaf(root):
+            return root.data
+        
+        leftSum = self.checkSumProperty(root.left)
+        rightSum = self.checkSumProperty(root.right)
+        if root.data != (leftSum + rightSum):
+            return float('-inf')
+        else:
+            return root.data
         
     def isSumProperty(self, root):
         # code here
-        if self.isLeaf(root):
-            return True
-        q = deque([root])
+        return (self.checkSumProperty(root) != float('-inf'))
         
-        while q:
-            Sum = 0
-            node = q.popleft()
-            if not self.isLeaf(node):
-                if node.left:
-                    Sum += node.left.data
-                    q.append(node.left)
-                if node.right:
-                    Sum += node.right.data
-                    q.append(node.right)
-                if Sum != node.data:
-                    return False
-        return True
