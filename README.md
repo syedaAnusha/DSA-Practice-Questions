@@ -153,6 +153,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
 | [0338-counting-bits](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -212,6 +213,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -269,6 +271,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0144-binary-tree-preorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -305,6 +308,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0144-binary-tree-preorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
