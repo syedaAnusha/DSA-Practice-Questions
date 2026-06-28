@@ -80,6 +80,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0084-largest-rectangle-in-histogram](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0135-candy](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
@@ -104,6 +105,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0003-longest-substring-without-repeating-characters](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0621-task-scheduler](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
@@ -233,6 +235,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -271,6 +274,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -309,6 +313,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
