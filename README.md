@@ -288,6 +288,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0222-count-complete-tree-nodes](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0450-delete-node-in-a-bst](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
@@ -335,6 +336,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0222-count-complete-tree-nodes](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0450-delete-node-in-a-bst](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
@@ -366,6 +368,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
