@@ -100,6 +100,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/2104-sum-of-subarray-ranges/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +200,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0621-task-scheduler](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +256,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0455-assign-cookies](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
