@@ -95,6 +95,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0907-sum-of-subarray-minimums](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
+| [0994-rotting-oranges](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
@@ -208,6 +209,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0200-number-of-islands](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -396,6 +398,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0662-maximum-width-of-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0994-rotting-oranges](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
