@@ -1,37 +1,39 @@
+from collections import deque
 class Solution:
-    # Optimal Approach
-    # Time Complexity: O(n) + O(n + E)
-    # Space Complexity: O(n) + O(n) + O(n)
-    def dfs(self, node, adj, visited, pathVisited):
-        visited[node] = 1
-        pathVisited[node] = 1
+    # Optimal Approach using BFS (kahn's algorithm)
+    # Time Complexity: O(n + E)
+    # Space Complexity: O(n) 
+    def bfs(self, que, indegree, adj):
+        topoCnt = 0
         
-        for adjacentNode in adj[node]:
-            if visited[adjacentNode] == 0:
-                if self.dfs(adjacentNode, adj, visited, pathVisited):
-                    return True
-            elif pathVisited[adjacentNode] == 1:
-                return True
-        
-        pathVisited[node] = 0  
-        return False
+        while que:
+            node = que.popleft()
+            topoCnt += 1
             
-        
-    def getAdjList(self, V,edges):
+            for adjNode in adj[node]:
+                indegree[adjNode] -= 1
+                if indegree[adjNode] == 0:
+                    que.append(adjNode)
+        return topoCnt
+    
+    def findAdjacentAndIndegreeOfAdjacentNodes(self, V, edges, indegree):
         adj = [[] for _ in range(V)]
         for u, v in edges:
             adj[u].append(v)
-            
+            indegree[v] += 1
         return adj
         
     def isCyclic(self, V, edges):
         # code here
-        adj = self.getAdjList(V, edges)
-        visited = [0] * V
-        pathVisited = [0] * V
+        indegree = [0 for _ in range(V)]
+        adj = self.findAdjacentAndIndegreeOfAdjacentNodes(V, edges, indegree)
+        que = deque([])
         
-        for i in range(V):
-            if visited[i] == 0:
-                if self.dfs(i, adj, visited, pathVisited):
-                    return True
-        return False
+        for i in range(len(indegree)):
+            if indegree[i] == 0:
+                que.append(i)
+                
+        topoCnt = self.bfs(que, indegree, adj) 
+        if  topoCnt ==  V:
+            return False
+        return True
