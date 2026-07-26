@@ -1,28 +1,37 @@
+from collections import deque
 class Solution:
-    # Optimal Approach
-    # Time Complexity: O(n) + O(n + E)
+    # Optimal Approach using BFS (kahn's algorithm)
+    # Time Complexity: O(n + E)
     # Space Complexity: O(n) + O(n)
-    def dfs(self, node, adj, visited, st):
-        visited[node] = 1
+    def bfs(self, que, indegree, adj):
+        topo = []
         
-        for adjNode in adj[node]:
-            if visited[adjNode] == 0:
-                self.dfs(adjNode, adj, visited, st)
-        
-        st.append(node)
-                
-    def findAdjNodes(self, V, edges):
+        while que:
+            node = que.popleft()
+            topo.append(node)
+            
+            for adjNode in adj[node]:
+                indegree[adjNode] -= 1
+                if indegree[adjNode] == 0:
+                    que.append(adjNode)
+        return topo
+
+
+    def findAdjacentAndIndegreeOfAdjacentNodes(self, V, edges, indegree):
         adj = [[] for _ in range(V)]
         for u, v in edges:
             adj[u].append(v)
+            indegree[v] += 1
         return adj
         
     def topoSort(self, V, edges):
         # Code here
-        adj = self.findAdjNodes(V, edges)
-        visited = [0 for _ in range(V)]
-        st = []
-        for i in range(V):
-            if visited[i] == 0:
-                self.dfs(i, adj, visited, st)
-        return st[::-1]
+        indegree = [0 for _ in range(V)]
+        adj = self.findAdjacentAndIndegreeOfAdjacentNodes(V, edges, indegree)
+        que = deque([])
+        
+        for i in range(len(indegree)):
+            if indegree[i] == 0:
+                que.append(i)
+                
+        return self.bfs(que, indegree, adj)
