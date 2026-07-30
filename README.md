@@ -114,6 +114,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0076-minimum-window-substring](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0127-word-ladder](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0621-task-scheduler](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
@@ -191,6 +192,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
+| [0127-word-ladder](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0402-remove-k-digits](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
@@ -406,6 +408,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
+| [0127-word-ladder](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
