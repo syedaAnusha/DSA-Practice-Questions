@@ -105,6 +105,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [1091-shortest-path-in-binary-matrix](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/2104-sum-of-subarray-ranges/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
@@ -223,6 +224,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0994-rotting-oranges](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,6 +251,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0035-search-insert-position](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,6 +284,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0023-merge-k-sorted-lists](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0621-task-scheduler](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,6 +369,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -429,6 +434,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0994-rotting-oranges](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -464,6 +470,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0547-number-of-provinces](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -478,4 +485,8 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0207-course-schedule](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
