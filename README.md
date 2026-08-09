@@ -172,6 +172,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0435-non-overlapping-intervals](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0542-01-matrix](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Bit Manipulation
@@ -284,6 +285,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0023-merge-k-sorted-lists](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0621-task-scheduler](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -364,6 +366,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0662-maximum-width-of-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -428,6 +431,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0662-maximum-width-of-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -478,6 +482,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0210-course-schedule-ii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -489,4 +494,8 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1631-path-with-minimum-effort](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
