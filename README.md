@@ -175,6 +175,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0787-cheapest-flights-within-k-stops](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -484,18 +485,22 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0785-is-graph-bipartite](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1631-path-with-minimum-effort](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 <!---LeetCode Topics End-->
