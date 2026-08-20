@@ -287,6 +287,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0023-merge-k-sorted-lists](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0621-task-scheduler](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
+| [0743-network-delay-time](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 ## Quickselect
@@ -367,6 +368,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
@@ -432,6 +434,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
@@ -483,6 +486,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0207-course-schedule](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
@@ -498,12 +502,14 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1976-number-of-ways-to-arrive-at-destination/) | Medium |
