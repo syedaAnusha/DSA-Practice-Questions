@@ -1,4 +1,5 @@
 class DisjointSet:
+    # Time Complexity: O(4 alpha) ≈ O(constant Time)
     rank = []
     parent = []
     size = []
