@@ -91,6 +91,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0503-next-greater-element-ii](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0542-01-matrix](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0621-task-scheduler](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
+| [0721-accounts-merge](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0860-lemonade-change](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0860-lemonade-change/) | Easy |
@@ -121,6 +122,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0496-next-greater-element-i](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0621-task-scheduler](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0721-accounts-merge](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0930-binary-subarrays-with-sum/) | Medium |
@@ -202,6 +204,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0402-remove-k-digits](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0721-accounts-merge](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -279,6 +282,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0435-non-overlapping-intervals](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
+| [0721-accounts-merge](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Heap (Priority Queue)
@@ -367,6 +371,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0547-number-of-provinces](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
+| [0721-accounts-merge](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
@@ -434,6 +439,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0547-number-of-provinces](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
+| [0721-accounts-merge](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
@@ -479,6 +485,7 @@ This is a personal repo, but feel free to fork it and use it for your own DSA pr
 | [0130-surrounded-regions](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
+| [0721-accounts-merge](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/syedaAnusha/DSA-Practice-Questions/tree/main/LeetCode/Medium/1319-number-of-operations-to-make-network-connected/) | Medium |
